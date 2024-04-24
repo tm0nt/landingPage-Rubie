@@ -25,7 +25,7 @@
                             <div
                                 class="sm:inline-flex sm:min-w-max absolute sm:relative top-0.5 right-0.5 sm:top-0 sm:right-0">
                                 <button
-                                    class="min-w-max p-3 sm:py-3 sm:px-6 text-white border-2 border-transparent relative group">
+                                    class="min-w-max p-3 sm:py-3 sm:px-6 text-white border-2 border-transparent relative group" href="https://api.whatsapp.com/send?phone=5521984154963&text=Ol%C3%A1%2C%20quero%20mais%20informa%C3%A7%C3%B5es%20sobre...%20">
                                     <span
                                         class="absolute inset-0 rounded-full group-hover:scale-105 origin-center transition-all ease-in-out bg-primary"></span>
                                     <span aria-hidden="true" class="relative hidden sm:flex">

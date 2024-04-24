@@ -31,7 +31,7 @@
                     </p>
 
                     <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
-                        <AtomsLinkBtn href="#" variant="primary" class="w-full sm:w-max flex justify-center">
+                        <AtomsLinkBtn href="https://api.whatsapp.com/send?phone=5521984154963&text=Ol%C3%A1%2C%20quero%20mais%20informa%C3%A7%C3%B5es%20sobre...%20" variant="primary" class="w-full sm:w-max flex justify-center">
                             Fale conosco
                         </AtomsLinkBtn>
                     </div>
